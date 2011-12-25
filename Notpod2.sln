@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.0.0.7070
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notpod", "Notpod\Notpod.csproj", "{10A3B03F-F002-4476-A384-2080C3F3B278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notpod-domain-model", "notpod-domain-model\notpod-domain-model.csproj", "{25ABACE2-12C0-4867-8548-6755F2D061FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notpod-wpd", "notpod-wpd\notpod-wpd.csproj", "{740FE8FF-527B-4584-BF94-94416FBBA91A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notpod-wpd-test", "notpod-wpd-test\notpod-wpd-test.csproj", "{339C589E-52C3-4F77-AE58-85A69BFB527B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notpod-domain-model-test", "notpod-domain-model-test\notpod-domain-model-test.csproj", "{22124C57-C389-4C89-B2B3-229902EB699F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A3B03F-F002-4476-A384-2080C3F3B278}.Debug|x86.Build.0 = Debug|x86
+		{10A3B03F-F002-4476-A384-2080C3F3B278}.Debug|x86.ActiveCfg = Debug|x86
+		{10A3B03F-F002-4476-A384-2080C3F3B278}.Release|x86.Build.0 = Release|x86
+		{10A3B03F-F002-4476-A384-2080C3F3B278}.Release|x86.ActiveCfg = Release|x86
+		{25ABACE2-12C0-4867-8548-6755F2D061FF}.Debug|x86.Build.0 = Debug|x86
+		{25ABACE2-12C0-4867-8548-6755F2D061FF}.Debug|x86.ActiveCfg = Debug|x86
+		{25ABACE2-12C0-4867-8548-6755F2D061FF}.Release|x86.Build.0 = Release|x86
+		{25ABACE2-12C0-4867-8548-6755F2D061FF}.Release|x86.ActiveCfg = Release|x86
+		{740FE8FF-527B-4584-BF94-94416FBBA91A}.Debug|x86.Build.0 = Debug|x86
+		{740FE8FF-527B-4584-BF94-94416FBBA91A}.Debug|x86.ActiveCfg = Debug|x86
+		{740FE8FF-527B-4584-BF94-94416FBBA91A}.Release|x86.Build.0 = Release|x86
+		{740FE8FF-527B-4584-BF94-94416FBBA91A}.Release|x86.ActiveCfg = Release|x86
+		{339C589E-52C3-4F77-AE58-85A69BFB527B}.Debug|x86.Build.0 = Debug|x86
+		{339C589E-52C3-4F77-AE58-85A69BFB527B}.Debug|x86.ActiveCfg = Debug|x86
+		{339C589E-52C3-4F77-AE58-85A69BFB527B}.Release|x86.Build.0 = Release|x86
+		{339C589E-52C3-4F77-AE58-85A69BFB527B}.Release|x86.ActiveCfg = Release|x86
+		{22124C57-C389-4C89-B2B3-229902EB699F}.Debug|x86.Build.0 = Debug|x86
+		{22124C57-C389-4C89-B2B3-229902EB699F}.Debug|x86.ActiveCfg = Debug|x86
+		{22124C57-C389-4C89-B2B3-229902EB699F}.Release|x86.Build.0 = Release|x86
+		{22124C57-C389-4C89-B2B3-229902EB699F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
