@@ -71,6 +71,10 @@
       <Project>{740FE8FF-527B-4584-BF94-94416FBBA91A}</Project>
       <Name>notpod-wpd</Name>
     </ProjectReference>
+    <ProjectReference Include="..\notpod-wpd\notpod-wpd.csproj">
+      <Project>{740FE8FF-527B-4584-BF94-94416FBBA91A}</Project>
+      <Name>notpod-wpd</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

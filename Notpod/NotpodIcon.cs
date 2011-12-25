@@ -61,7 +61,7 @@ namespace Notpod
                     applicationInstance.notifyIcon.Dispose();
                 } else {
                     // The application is already running
-                    // TODO: Display message box or change focus to existing application instance
+                    MessageBox.Show("Notpod is already running in your system tray. Look for it's icon there and right-click it to get started.","Notpod",MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             } // releases the Mutex
         }
